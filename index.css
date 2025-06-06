@@ -1,0 +1,31 @@
+*{
+
+    background-color:rgb(98, 141, 175);
+    color: #222;
+    font-style: italic
+}
+img {
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid rgb(204, 194, 194);
+}
+#c{
+    background-color:rgb(98, 141, 175);
+}
+h3{
+    color: gainsboro ;
+}
+h2{
+    background-color: rgb(187, 210, 214);
+}
+h1{
+    background-color: rgb(187, 210, 214);
+}
+body{
+    border: 2px solid white;
+}
+p {
+    margin-bottom: 20px;
+    padding: 8px; /* gives breathing room inside the paragraph */
+}
